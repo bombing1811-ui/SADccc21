@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nocturne-reserve.example/sitemap.xml

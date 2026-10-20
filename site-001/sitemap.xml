@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://lumen-fjord.example/index.html</loc></url>
+  <url><loc>https://lumen-fjord.example/about.html</loc></url>
+  <url><loc>https://lumen-fjord.example/services.html</loc></url>
+  <url><loc>https://lumen-fjord.example/service-one.html</loc></url>
+  <url><loc>https://lumen-fjord.example/service-two.html</loc></url>
+  <url><loc>https://lumen-fjord.example/service-three.html</loc></url>
+  <url><loc>https://lumen-fjord.example/blog.html</loc></url>
+  <url><loc>https://lumen-fjord.example/contact.html</loc></url>
+  <url><loc>https://lumen-fjord.example/privacy-policy.html</loc></url>
+  <url><loc>https://lumen-fjord.example/terms-and-conditions.html</loc></url>
+  <url><loc>https://lumen-fjord.example/cookie-policy.html</loc></url>
+  <url><loc>https://lumen-fjord.example/disclaimer.html</loc></url>
+</urlset>
