@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lumen-fjord.example/sitemap.xml
