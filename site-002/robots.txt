@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kestrelkiln.example.com/sitemap.xml

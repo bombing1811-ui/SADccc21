@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://prismparcel.example.com/sitemap.xml

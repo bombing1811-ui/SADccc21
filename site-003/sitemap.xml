@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://prismparcel.example.com/index.html</loc></url>
+  <url><loc>https://prismparcel.example.com/about.html</loc></url>
+  <url><loc>https://prismparcel.example.com/services.html</loc></url>
+  <url><loc>https://prismparcel.example.com/service-one.html</loc></url>
+  <url><loc>https://prismparcel.example.com/service-two.html</loc></url>
+  <url><loc>https://prismparcel.example.com/service-three.html</loc></url>
+  <url><loc>https://prismparcel.example.com/blog.html</loc></url>
+  <url><loc>https://prismparcel.example.com/contact.html</loc></url>
+  <url><loc>https://prismparcel.example.com/privacy-policy.html</loc></url>
+  <url><loc>https://prismparcel.example.com/terms-and-conditions.html</loc></url>
+  <url><loc>https://prismparcel.example.com/cookie-policy.html</loc></url>
+  <url><loc>https://prismparcel.example.com/disclaimer.html</loc></url>
+</urlset>
