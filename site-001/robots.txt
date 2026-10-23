@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://astertide.example.com/sitemap.xml
